@@ -168,5 +168,8 @@ Creating user flow diagrams typically involves mapping out the step-by-step jour
    - Session ends securely, with the state saved for the next login.
   
    - ![image](https://github.com/Mr2cool/RetailScanAI/assets/75075224/46f82e57-757a-4f9b-9844-662707b1fff9)
+  
+   - ![RetailScanAI](https://github.com/Mr2cool/RetailScanAI/assets/75075224/7e3aedab-e475-424b-8c5a-67b1e4c0a3c9)
+
 
 
