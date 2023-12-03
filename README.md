@@ -166,4 +166,7 @@ Creating user flow diagrams typically involves mapping out the step-by-step jour
 9. **Logout/Session End:**
    - User completes tasks and logs out of the system.
    - Session ends securely, with the state saved for the next login.
+  
+   - ![image](https://github.com/Mr2cool/RetailScanAI/assets/75075224/46f82e57-757a-4f9b-9844-662707b1fff9)
+
 
